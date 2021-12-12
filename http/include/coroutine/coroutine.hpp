@@ -1,5 +1,5 @@
-#ifndef HTTP_COROUTINE_H
-#define HTTP_COROUTINE_H
+#ifndef HTTP_COROUTINE_HPP
+#define HTTP_COROUTINE_HPP
 
 #include <functional>
 
@@ -28,4 +28,4 @@ namespace Coroutine {
 
 } // namespace Coroutine
 
-#endif // HTTP_COROUTINE_H
+#endif // HTTP_COROUTINE_HPP
